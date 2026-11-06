@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-008",
+  "repository_name": "edu-enrollment-poster-copy",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-enrollment-poster-copy-v1.0.0.zip",
+  "sha256": "17DDD93D12C24F1D9D1722DD314BAC23B9C38612D86CC4D0AC45CDD484FCD93E",
+  "bytes": 4902,
+  "entries": [
+    "edu-enrollment-poster-copy/SKILL.md",
+    "edu-enrollment-poster-copy/references/DOMAIN_GUIDE.md",
+    "edu-enrollment-poster-copy/references/EXAMPLES.md",
+    "edu-enrollment-poster-copy/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T21:38:26.5060076+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

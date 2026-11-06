@@ -1,0 +1,24 @@
+{
+  "number": 8,
+  "product_id": "JLZ-EDU-SK-008",
+  "chinese_name": "招生海报文案",
+  "english_name": "Enrollment Poster Copy",
+  "repository_name": "edu-enrollment-poster-copy",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-enrollment-poster-copy-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "课程、活动优惠、目标人群、海报尺寸、品牌素材和禁用表达",
+  "main_output": "主副标题、卖点分层、活动信息、行动号召、排版建议和合规检查",
+  "package_entries": [
+    "edu-enrollment-poster-copy/SKILL.md",
+    "edu-enrollment-poster-copy/references/DOMAIN_GUIDE.md",
+    "edu-enrollment-poster-copy/references/EXAMPLES.md",
+    "edu-enrollment-poster-copy/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
