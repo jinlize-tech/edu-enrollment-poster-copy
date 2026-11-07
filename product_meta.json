@@ -6,19 +6,38 @@
   "repository_name": "edu-enrollment-poster-copy",
   "product_type": "Skill",
   "category": "01 招生营销中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-enrollment-poster-copy-v1.0.0.zip",
+  "baseline_commit": "e95b612adb3742b585702f86df49b5f61045d175",
+  "package_path": "dist/edu-enrollment-poster-copy-v1.0.1.zip",
+  "previous_package_path": "dist/edu-enrollment-poster-copy-v1.0.0.zip",
+  "previous_package_sha256": "17DDD93D12C24F1D9D1722DD314BAC23B9C38612D86CC4D0AC45CDD484FCD93E",
   "calculator": false,
   "core_input": "课程、活动优惠、目标人群、海报尺寸、品牌素材和禁用表达",
   "main_output": "主副标题、卖点分层、活动信息、行动号召、排版建议和合规检查",
+  "main_output_fields": [
+    "主副标题",
+    "卖点分层",
+    "活动信息",
+    "行动号召",
+    "排版建议和合规检查"
+  ],
   "package_entries": [
     "edu-enrollment-poster-copy/SKILL.md",
     "edu-enrollment-poster-copy/references/DOMAIN_GUIDE.md",
     "edu-enrollment-poster-copy/references/EXAMPLES.md",
-    "edu-enrollment-poster-copy/templates/OUTPUT_TEMPLATE.md"
+    "edu-enrollment-poster-copy/templates/OUTPUT_TEMPLATE.md",
+    "edu-enrollment-poster-copy/README.md",
+    "edu-enrollment-poster-copy/USAGE.md",
+    "edu-enrollment-poster-copy/LICENSE",
+    "edu-enrollment-poster-copy/THIRD_PARTY_NOTICES.md",
+    "edu-enrollment-poster-copy/scripts/validate_input.js"
   ]
 }
